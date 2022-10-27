@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "C,C++ tutorial",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
+    },
+    {
+      "id": "02",
+      "name": "Learn Basic Python",
+      "imgURL":"https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
+    },
+    {
+      "id": "03",
+      "name": "Python Advance",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
+    },
+    {
+      "id": "04",
+      "name": "Frontend Development",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
+    },
+    {
+      "id": "05",
+      "name": "JavaScript A to Z",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
+    },
+    {
+      "id": "06",
+      "name": "Be a React developer!",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
+    }
+]
