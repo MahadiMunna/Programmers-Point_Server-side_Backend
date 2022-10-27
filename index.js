@@ -24,10 +24,10 @@ app.get('/tutorials/:id',(req,res)=>{
 })
 
 app.get('/',(req,res)=>{
-    res.send('News api running')
+    res.send('API running')
 });
 
 
 app.listen(port,()=>{
-    console.log('News server running on port',port);
+    console.log('Server running on port',port);
 })
