@@ -3,192 +3,224 @@
       "id": "01",
       "tutorial_id":"101",
       "tutorial_name": "Basic C",
-      "price":"$19"
+      "price":"$19",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
     },
     {
       "id": "01",
       "tutorial_id":"102",
       "tutorial_name": "Basic C++",
-      "price":"$19"
+      "price":"$19",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
     },
     {
       "id": "01",
       "tutorial_id":"103",
       "tutorial_name": "Data structure C",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
     },
     {
       "id": "01",
       "tutorial_id":"104",
       "tutorial_name": "Data structure C++",
-      "price":"$28"
+      "price":"$28",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
     },
     {
       "id": "01",
       "tutorial_id":"105",
       "tutorial_name": "Algorithms C/C++",
-      "price":"$30"
+      "price":"$30",
+      "imgURL":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5295407815458816/image/download/4810048073629696"
     },
     {
       "id": "02",
       "tutorial_id":"106",
       "tutorial_name": "Basic python with Basic vai",
-      "price":"$20"
+      "price":"$20",
+      "imgURL":"https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
     },
     {
       "id": "02",
       "tutorial_id":"107",
       "tutorial_name": "Basic python for AI",
-      "price":"$35"
+      "price":"$35",
+      "imgURL":"https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
     },
     {
       "id": "02",
       "tutorial_id":"108",
       "tutorial_name": "Python projects",
-      "price":"$30"
+      "price":"$30",
+      "imgURL":"https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
     },
     {
       "id": "02",
       "tutorial_id":"109",
       "tutorial_name": "Basic python problems",
-      "price":"$15"
+      "price":"$15",
+      "imgURL":"https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
     },
     {
       "id": "03",
       "tutorial_id":"110",
       "tutorial_name": "Advance python with programming hero",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
     },
     {
       "id": "03",
       "tutorial_id":"111",
       "tutorial_name": "Advance python for AI",
-      "price":"$35"
+      "price":"$35",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
     },
     {
       "id": "03",
       "tutorial_id":"112",
       "tutorial_name": "Advance python with projects",
-      "price":"$30"
+      "price":"$30",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
     },
     {
       "id": "03",
       "tutorial_id":"113",
       "tutorial_name": "Python with django",
-      "price":"$40"
+      "price":"$40",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
     },
     {
       "id": "03",
       "tutorial_id":"114",
       "tutorial_name": "Advance python problems",
-      "price":"$15"
+      "price":"$15",
+      "imgURL":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png"
     },
     {
       "id": "04",
       "tutorial_id":"115",
       "tutorial_name": "HTML,CSS,JS with programming hero",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "04",
       "tutorial_id":"116",
       "tutorial_name": "HTML,CSS in 7 days",
-      "price":"$20"
+      "price":"$20",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "04",
       "tutorial_id":"117",
       "tutorial_name": "CSS frameworks - bootstrap, tailwind",
-      "price":"$30"
+      "price":"$30",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "04",
       "tutorial_id":"118",
       "tutorial_name": "Frontend projects",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "04",
       "tutorial_id":"119",
       "tutorial_name": "HTML5,CSS3 A to Z",
-      "price":"$28"
+      "price":"$28",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "04",
       "tutorial_id":"120",
       "tutorial_name": "Prepare for Frontend development interview",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
     },
     {
       "id": "05",
       "tutorial_id":"121",
       "tutorial_name": "Basic javascript in 10 days",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
-      "id": "06",
+      "id": "05",
       "tutorial_id":"122",
       "tutorial_name": "JavaScript problems",
-      "price":"$15"
+      "price":"$15",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
       "id": "05",
       "tutorial_id":"123",
       "tutorial_name": "All about event handler",
-      "price":"$15"
+      "price":"$15",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
       "id": "05",
       "tutorial_id":"124",
       "tutorial_name": "JavaScript projects!",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
       "id": "05",
       "tutorial_id":"125",
       "tutorial_name": "a to z javascript",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
       "id": "06",
       "tutorial_id":"126",
       "tutorial_name": "learn Basic React",
-      "price":"$20"
+      "price":"$20",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"127",
       "tutorial_name": "Authentication with react",
-      "price":"$20"
+      "price":"$20",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"128",
       "tutorial_name": "Advance react concepts",
-      "price":"$26"
+      "price":"$26",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"129",
       "tutorial_name": "Play with API",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"130",
       "tutorial_name": "Learn react with programming hero",
-      "price":"$25"
+      "price":"$25",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"131",
       "tutorial_name": "React projects",
-      "price":"$30"
+      "price":"$30",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     },
     {
       "id": "06",
       "tutorial_id":"132",
       "tutorial_name": "Everything about react!",
-      "price":"$35"
+      "price":"$35",
+      "imgURL":"https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png"
     }
 ]
