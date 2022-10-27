@@ -13,9 +13,9 @@ app.get('/courses',(req,res)=>{
     res.send(categories);
 })
 
-app.get('/tutorials'),(req,res)=>{
+app.get('/tutorials',(req,res)=>{
     res.send(tutorials);
-}
+})
 
 app.get('/tutorials/:id',(req,res)=>{
     const id = req.params.id;
